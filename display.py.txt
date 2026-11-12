@@ -1,0 +1,4 @@
+"""Displays messages."""
+
+def show_message(message):
+    print(message)

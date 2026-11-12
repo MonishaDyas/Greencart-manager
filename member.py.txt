@@ -1,0 +1,4 @@
+"""Handles member functions."""
+
+def calculate_balance(wallet, fee=5):
+    return wallet - fee

@@ -1,0 +1,5 @@
+"""Manages product catalogue operations."""
+
+def display_products(catalogue):
+    for product in catalogue:
+        print(product)
